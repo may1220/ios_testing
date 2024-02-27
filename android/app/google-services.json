@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "771460952772",
+    "firebase_url": "https://dev-proj-healthchecking-353609-default-rtdb.firebaseio.com",
+    "project_id": "dev-proj-healthchecking-353609",
+    "storage_bucket": "dev-proj-healthchecking-353609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771460952772:android:9039be76da5a1a27a7cf91",
+        "android_client_info": {
+          "package_name": "com.earthbrain.hc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aOGKPKGI0PgwOFBsZjDateXpQyPoXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771460952772-14t6pj1jho892ajr7drdbnasos5htae4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.brycen.healthmanagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771460952772:android:50a82513107f7458a7cf91",
+        "android_client_info": {
+          "package_name": "com.earthbrain.hc.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aOGKPKGI0PgwOFBsZjDateXpQyPoXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771460952772-14t6pj1jho892ajr7drdbnasos5htae4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.brycen.healthmanagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771460952772:android:2faa71646ae64fd7a7cf91",
+        "android_client_info": {
+          "package_name": "com.earthbrain.hc.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aOGKPKGI0PgwOFBsZjDateXpQyPoXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771460952772-14t6pj1jho892ajr7drdbnasos5htae4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.brycen.healthmanagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771460952772:android:5df0f83d02b8294ea7cf91",
+        "android_client_info": {
+          "package_name": "com.earthbrain.hcapp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aOGKPKGI0PgwOFBsZjDateXpQyPoXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771460952772-14t6pj1jho892ajr7drdbnasos5htae4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.brycen.healthmanagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771460952772:android:c3c3504f32cf193ea7cf91",
+        "android_client_info": {
+          "package_name": "com.example.ebhc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aOGKPKGI0PgwOFBsZjDateXpQyPoXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771460952772-14t6pj1jho892ajr7drdbnasos5htae4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.brycen.healthmanagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771460952772:android:528b4bb162f65a62a7cf91",
+        "android_client_info": {
+          "package_name": "jp.co.brycen.healthmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aOGKPKGI0PgwOFBsZjDateXpQyPoXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771460952772-ritrmag3v9homur3lgl4l394r59rnjol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771460952772-14t6pj1jho892ajr7drdbnasos5htae4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.brycen.healthmanagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
